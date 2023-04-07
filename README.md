@@ -203,6 +203,8 @@ Clone this repository on own GitHub account and deploy to Vercel:
 
 All the group members can request access to the repo and can contribute to resources or blogs if they'd like to
 
+add markdown or mdx posts to `src/content/post`
+
 ## Acknowledgements
 
 Website based on [astrowind](https://github.com/onwidget/astrowind) initially created by [onWidget](https://onwidget.com)
